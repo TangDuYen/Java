@@ -1,0 +1,12 @@
+H20      | yellannnnnnnnnn           | 10              | 130 huynh man dat, p3, q5, tphcm                                  | 0980980987   | 5 star      
+H01      | Seraton                   | 10              | 189 Ung Van Khiem, Ward 25, Binh Thanh District, Ho Chi Minh City | 0911796099   | 4 Star      
+H02      | Vinstar                   | 5               | 200 Ung Van Khiem, Ward 25, Binh Thanh District, Ho Chi Minh City | 0918940111   | 5 Star      
+H03      | Outstring                 | 7               | 300 D1, Ward 24, Binh Thanh District, Ho Chi Minh City            | 0988940222   | 6 Star      
+H04      | Betigar                   | 9               | 189 Duong Quang Ham, Ward 5, Go Vap District, Ho Chi Minh City    | 0977940100   | 3 Star      
+H00      | New World Saigon Hotel    | 0               | 76 Le Lai, District 1, Ho Chi Minh City                           | 0283828888   | 6 Star      
+H07      | Tang Du Yen 123           | 10              | 130 Huynh Man Dat, District 5, Ward 3, Ho Chi Minh City           | 0932754711   | 5 Star      
+H08      | Yen                       | 5               | 123 Huynh Man Dat Street, District 3, Ward 5, Ho Chi Minh City    | 0987654321   | 5 Star      
+H09      | Abc                       | 20              | 130 Huynh Man Dat, District 5, Ward 3, Ho Chi Minh City           | 0932754711   | 5 star      
+H10      | Abc                       | 30              | 123 Huynh Man Dat Street, District 3, Ward 5, Ho Chi Minh City    | 0987654321   | 5 star      
+H21      | vinnn                     | 40              | asdasda                                                           | 0909090909   | 5 star      
+H22      | uniform                   | 50              | sdfsfsd                                                           | 0808080808   | 5 star      
